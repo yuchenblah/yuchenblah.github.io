@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuchen Feng | 冯宇辰"
+  name             : "Yuchen Feng<br>冯宇辰"
   avatar           : "images/profile.jpg"
   bio              : "Institute of Information Engineering, Chinese Academy of Sciences"
   location         : "Beijing, China"
