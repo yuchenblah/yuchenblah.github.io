@@ -50,7 +50,7 @@ Jiaxuan Zhao, Naibin Gu*, **Yuchen Feng**, Xiyu Liu, Peng Fu, Zheng Lin, Weiping
 </div>
 
 
-# 📖 Educations
+# 📖 Education
 - *2023.09 - Present*, M.Sc. in Computer Science, Institute of Information Engineering, Chinese Academy of Sciences.
 - *2019.06 - 2023.09*, B.Sc. in Electronic Information Science and Technology, School of Artificial Intelligence, Beijing Normal University. 
 
