@@ -32,7 +32,7 @@ My research interests include multimodal large language models (LLMs), model com
 **Yuchen Feng**, Bowen Shen*, Naibin Gu, Jiaxuan Zhao, Peng Fu, Zheng Lin, Weiping Wang
 
 [**Pdf**](https://arxiv.org/abs/2506.09351) / [**Code**](https://github.com/yuchenblah/DIVE) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Existing reconstruction methods often overlook the diversity among experts, leading to potential redundancy. We come up with the observation that a specific LLM exhibits notable diversity after being pruned on different calibration datasets, based on which we present a Diversity-Enhanced reconstruction method named DIVE. The recipe of DIVE includes domain affinity mining, pruning-based expert reconstruction, and efficient retraining. We implement DIVE on Llama-style LLMs with open-source training corpora. Experiments show that DIVE achieves training efficiency with minimal accuracy trade-offs. 
+- Existing MoE reconstruction methods often overlook the diversity among experts, leading to potential redundancy. We come up with the observation that a specific LLM exhibits notable diversity after being pruned on different calibration datasets, and present a Diversity-Enhanced reconstruction method named DIVE. The recipe of DIVE includes domain affinity mining, pruning-based expert reconstruction, and efficient retraining. Experiments show that DIVE achieves training efficiency with minimal accuracy trade-offs. 
 </div>
 </div>
 
@@ -45,7 +45,7 @@ My research interests include multimodal large language models (LLMs), model com
 Jiaxuan Zhao, Naibin Gu*, **Yuchen Feng**, Xiyu Liu, Peng Fu, Zheng Lin, Weiping Wang
 
 [**Pdf**]() / [**Code**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We propose Customized Black-box Prompt Tuning (CBP-Tuning), a novel framework that facilitates efficient local customization while preserving bidirectional privacy. Specifically, we design a two-stage framework: (1) a prompt generator trained on the server-side to capture domain-specific and task-agnostic capabilities, and (2) user-side gradient-free optimization that tailors soft prompts for individual tasks. Furthermore, the evaluation in the commonsense reasoning, medical and financial domain settings demonstrates superior performance, showcasing its advantages.
+- We propose Customized Black-box Prompt Tuning (CBP-Tuning), a novel framework that facilitates efficient local customization while preserving bidirectional privacy. Specifically, we design a two-stage framework: (1) a prompt generator trained on the server-side to capture domain-specific and task-agnostic capabilities, and (2) user-side gradient-free optimization that tailors soft prompts for individual tasks. Furthermore, the evaluation in the commonsense reasoning, medical and financial domain settings demonstrates superior performance.
 </div>
 </div>
 
