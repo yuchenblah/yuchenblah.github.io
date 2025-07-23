@@ -24,7 +24,7 @@ My research interests include multimodal large language models (LLMs), model com
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Main</div><img src='images/dive.jp2' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Main</div><img src='images/dive.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DIVE into MoE: Diversity-Enhanced Reconstruction of Large Language Models from Dense into Mixture-of-Experts](https://arxiv.org/abs/2506.09351)
@@ -37,7 +37,7 @@ My research interests include multimodal large language models (LLMs), model com
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to EMNLP 2025</div><img src='images/cbp-tuning.jp2' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to EMNLP 2025</div><img src='images/cbp-tuning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CBP-Tuning: Efficient Local Customization for Black-box Large Language Models]()
