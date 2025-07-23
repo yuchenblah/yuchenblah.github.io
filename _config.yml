@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuchen Feng (冯宇辰)"
+title                    : "Yuchen Feng | 冯宇辰"
 description              : "M.S. Student"
 repository               : "yuchenblah/yuchenblah.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuchen Feng"
+  name             : "Yuchen Feng | 冯宇辰"
   avatar           : "images/profile.jpg"
   bio              : "Institute of Information Engineering, Chinese Academy of Sciences"
   location         : "Beijing, China"
