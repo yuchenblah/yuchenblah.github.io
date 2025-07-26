@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master's student at the Institute of Information Engineering, Chinese Academy of Sciences, advised by Associate Prof. Peng Fu. Currently, I am a research intern at Baidu NLP. And I previously received my B.Sc. in Artificial Intelligence from Beijing Normal University.
+I am a Master's student at the Institute of Information Engineering, Chinese Academy of Sciences, advised by Prof. Peng Fu. Currently, I am a research intern at Baidu NLP. And I previously received my B.Sc. in Artificial Intelligence from Beijing Normal University.
 
 My research interests include multimodal large language models (LLMs), model compression, Mixture-of-Experts (MoE), and related topics. Feel free to contact me at: fengyuchen@iie.ac.cn.
 
