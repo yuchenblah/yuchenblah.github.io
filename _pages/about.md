@@ -61,7 +61,7 @@ Jiaxuan Zhao, Naibin Gu*, **Yuchen Feng**, Xiyu Liu, Peng Fu, Zheng Lin, Weiping
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/emoe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/emoe.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Elastic MoE: Unlocking the Inference-Time Scalability of Mixture-of-Experts]()
