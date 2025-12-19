@@ -43,7 +43,7 @@ My research interests include multimodal large language models (LLMs), model com
 
 **Yuchen Feng**, Zhenyu Zhang, Naibin Gu, Yilong Chen, Peng Fu, Zheng Lin, Shuohuan Wang, Yu Sun, Hua Wu, Weiping Wang, Haifeng Wang
 
-[**Pdf**]() / [**Code**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Pdf**](https://www.arxiv.org/abs/2512.10548) / [**Code**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Our pilot analysis shows that MLLMs shift their focus across layers and that allocating more computation to salient tokens improves visual perception. Building on this insight, we propose Blink, a dynamic visual token resolution framework that performs this human-inspired process within a single forward pass. It estimates token saliency from attention maps, expands important tokens via a plug-and-play token super-resolutions module, and drops them in the next layer once they lose focus.
 </div>
 </div>
